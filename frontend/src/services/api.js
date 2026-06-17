@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api/users",
+  baseURL: "https://atmapplication.onrender.com/api/users",
 });
 
 export const login = (accountNumber, pin) =>
