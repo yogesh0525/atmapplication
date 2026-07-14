@@ -66,7 +66,7 @@ const Dashboard = ({ user, setUser }) => {
             <div className="bg-gradient-to-r from-blue-900 to-indigo-950 text-white rounded-lg p-6 shadow-sm border border-blue-950 select-none">
               <div className="flex justify-between items-center mb-4">
                 <span className="text-xs uppercase tracking-wider opacity-80 font-bold">
-                  Yogesh Bank Account
+                  annamalai Bank Account
                 </span>
                 <span className="text-xs font-bold bg-blue-800 px-2 py-1 rounded">
                   DEBIT
