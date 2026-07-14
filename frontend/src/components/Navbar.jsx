@@ -19,7 +19,7 @@ const Navbar = ({ user, setUser }) => {
             Y
           </div>
           <span className="text-xl font-bold tracking-tight">
-            Yogesh Bank
+            Annamalai Bank
           </span>
         </div>
 
