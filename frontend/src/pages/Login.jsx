@@ -42,7 +42,7 @@ function Login({ user, setUser }) {
             Y
           </div>
           <h2 className="text-2xl font-bold text-slate-900">
-            Yogesh Bank ATM
+            Annamalai Bank ATM
           </h2>
           <p className="text-slate-500 text-sm mt-1">Please authenticate to access your account</p>
         </div>
