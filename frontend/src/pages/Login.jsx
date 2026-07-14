@@ -39,7 +39,7 @@ function Login({ user, setUser }) {
       >
         <div className="text-center mb-8">
           <div className="w-12 h-12 mx-auto mb-3 rounded bg-blue-900 flex items-center justify-center text-white font-bold text-2xl shadow-sm">
-            Y
+            A
           </div>
           <h2 className="text-2xl font-bold text-slate-900">
             Annamalai Bank ATM
