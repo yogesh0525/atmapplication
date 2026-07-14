@@ -16,7 +16,7 @@ const Navbar = ({ user, setUser }) => {
           className="flex items-center gap-2.5 cursor-pointer"
         >
           <div className="w-8 h-8 rounded bg-white flex items-center justify-center text-blue-900 font-bold text-lg">
-            Y
+            A
           </div>
           <span className="text-xl font-bold tracking-tight">
             Annamalai Bank
